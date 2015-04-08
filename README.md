@@ -6,11 +6,11 @@ In this way, all the 50 customers would eventually enter the post office, choose
 How to compile and run:
 To compile the source code, use the following command:
 
-javac Worker.java Customer.java PostOffice.java
+javac Worker.java Customer.java PostOffice.java Main.java
 
 To run the program, type the following command:
 
-java PostOffice
+java Main
 
 Difficulties Encountered:
 
